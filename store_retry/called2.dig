@@ -1,0 +1,2 @@
++echo_and_failed:
+  sh>: echo $sotre_key; ech

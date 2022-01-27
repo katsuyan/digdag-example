@@ -1,0 +1,8 @@
++call1:
+  call>: called1
+
++echo:
+  sh>: echo $sotre_key
+
++call2:
+  call>: called2

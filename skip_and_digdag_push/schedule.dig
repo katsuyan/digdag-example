@@ -1,0 +1,8 @@
+timezone: Asia/Tokyo
+
+schedule:
+  cron>: '*/5 * * * *'
+  skip_on_overtime: true
+
++step1:
+  sh>: sleep 360

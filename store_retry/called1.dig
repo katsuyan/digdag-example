@@ -1,0 +1,2 @@
++store:
+  py>: tasks.Task.store
